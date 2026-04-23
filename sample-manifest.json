@@ -1,12 +1,12 @@
 {
-  "export_job_id": "2f14c376-b84c-4baf-85ac-79b02577238e",
+  "export_job_id": "d34e963c-9c24-4d95-bd2c-3ea525432b7a",
   "id_short": 740517,
-  "published_at": "2026-04-18T19:49:00Z",
+  "published_at": "2026-04-23T07:07:58Z",
   "repo_name": "restaurant-verified-email-access-in-delaware-us-sample-740517",
   "sample_asset_name": "beamstation_740517_restaurants-us-de_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/740517/beamstation_740517_restaurants-us-de_SAMPLE_DIST.csv",
-  "sample_records": 67,
-  "sample_sha256": "419647e571bfbc5ec7aaed9c90a22950a30fb52bfe0c97f1d4a2f59b1f009be5",
-  "sample_size_bytes": 276865,
-  "total_records": 674
+  "sample_records": 53,
+  "sample_sha256": "d365352f6238881d74eff58fcacc892fa5ff137c31f17dce464a3afac41d523a",
+  "sample_size_bytes": 223836,
+  "total_records": 539
 }
